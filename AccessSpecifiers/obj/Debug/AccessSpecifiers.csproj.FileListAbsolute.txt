@@ -1,0 +1,7 @@
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\AccessSpecifiers\bin\Debug\AccessSpecifiers.exe.config
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\AccessSpecifiers\bin\Debug\AccessSpecifiers.exe
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\AccessSpecifiers\bin\Debug\AccessSpecifiers.pdb
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\AccessSpecifiers\obj\Debug\AccessSpecifiers.csprojAssemblyReference.cache
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\AccessSpecifiers\obj\Debug\AccessSpecifiers.csproj.CoreCompileInputs.cache
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\AccessSpecifiers\obj\Debug\AccessSpecifiers.exe
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\AccessSpecifiers\obj\Debug\AccessSpecifiers.pdb

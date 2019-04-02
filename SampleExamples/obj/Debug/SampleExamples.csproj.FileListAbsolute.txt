@@ -1,0 +1,7 @@
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\SampleExamples\bin\Debug\SampleExamples.exe.config
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\SampleExamples\bin\Debug\SampleExamples.exe
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\SampleExamples\bin\Debug\SampleExamples.pdb
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\SampleExamples\obj\Debug\SampleExamples.csprojAssemblyReference.cache
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\SampleExamples\obj\Debug\SampleExamples.csproj.CoreCompileInputs.cache
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\SampleExamples\obj\Debug\SampleExamples.exe
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\SampleExamples\obj\Debug\SampleExamples.pdb

@@ -1,0 +1,7 @@
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\NonGenericCollections\bin\Debug\NonGenericCollections.exe.config
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\NonGenericCollections\bin\Debug\NonGenericCollections.exe
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\NonGenericCollections\bin\Debug\NonGenericCollections.pdb
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\NonGenericCollections\obj\Debug\NonGenericCollections.csprojAssemblyReference.cache
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\NonGenericCollections\obj\Debug\NonGenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\NonGenericCollections\obj\Debug\NonGenericCollections.exe
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\NonGenericCollections\obj\Debug\NonGenericCollections.pdb

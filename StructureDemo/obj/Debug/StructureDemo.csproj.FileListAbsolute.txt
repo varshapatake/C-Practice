@@ -1,0 +1,7 @@
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\StructureDemo\bin\Debug\StructureDemo.exe.config
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\StructureDemo\bin\Debug\StructureDemo.exe
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\StructureDemo\bin\Debug\StructureDemo.pdb
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\StructureDemo\obj\Debug\StructureDemo.csprojAssemblyReference.cache
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\StructureDemo\obj\Debug\StructureDemo.csproj.CoreCompileInputs.cache
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\StructureDemo\obj\Debug\StructureDemo.exe
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\StructureDemo\obj\Debug\StructureDemo.pdb

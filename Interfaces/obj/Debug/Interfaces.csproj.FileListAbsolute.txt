@@ -1,0 +1,7 @@
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\Interfaces\obj\Debug\Interfaces.pdb

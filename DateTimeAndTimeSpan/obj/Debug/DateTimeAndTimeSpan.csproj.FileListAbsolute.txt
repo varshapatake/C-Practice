@@ -1,0 +1,7 @@
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\DateTimeAndTimeSpan\bin\Debug\DateTimeAndTimeSpan.exe.config
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\DateTimeAndTimeSpan\bin\Debug\DateTimeAndTimeSpan.exe
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\DateTimeAndTimeSpan\bin\Debug\DateTimeAndTimeSpan.pdb
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\DateTimeAndTimeSpan\obj\Debug\DateTimeAndTimeSpan.csprojAssemblyReference.cache
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\DateTimeAndTimeSpan\obj\Debug\DateTimeAndTimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\DateTimeAndTimeSpan\obj\Debug\DateTimeAndTimeSpan.exe
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\DateTimeAndTimeSpan\obj\Debug\DateTimeAndTimeSpan.pdb

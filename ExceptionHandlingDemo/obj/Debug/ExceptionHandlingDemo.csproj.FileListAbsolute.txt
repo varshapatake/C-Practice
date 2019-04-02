@@ -1,0 +1,7 @@
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\ExceptionHandlingDemo\bin\Debug\ExceptionHandlingDemo.exe.config
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\ExceptionHandlingDemo\bin\Debug\ExceptionHandlingDemo.exe
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\ExceptionHandlingDemo\bin\Debug\ExceptionHandlingDemo.pdb
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\ExceptionHandlingDemo\obj\Debug\ExceptionHandlingDemo.csprojAssemblyReference.cache
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\ExceptionHandlingDemo\obj\Debug\ExceptionHandlingDemo.csproj.CoreCompileInputs.cache
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\ExceptionHandlingDemo\obj\Debug\ExceptionHandlingDemo.exe
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\ExceptionHandlingDemo\obj\Debug\ExceptionHandlingDemo.pdb

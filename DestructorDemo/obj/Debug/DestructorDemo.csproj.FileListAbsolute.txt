@@ -1,0 +1,7 @@
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\DestructorDemo\bin\Debug\DestructorDemo.exe.config
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\DestructorDemo\bin\Debug\DestructorDemo.exe
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\DestructorDemo\bin\Debug\DestructorDemo.pdb
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\DestructorDemo\obj\Debug\DestructorDemo.csprojAssemblyReference.cache
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\DestructorDemo\obj\Debug\DestructorDemo.csproj.CoreCompileInputs.cache
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\DestructorDemo\obj\Debug\DestructorDemo.exe
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\DestructorDemo\obj\Debug\DestructorDemo.pdb

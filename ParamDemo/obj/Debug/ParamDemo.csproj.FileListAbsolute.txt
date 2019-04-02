@@ -1,0 +1,7 @@
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\ParamDemo\bin\Debug\ParamDemo.exe.config
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\ParamDemo\bin\Debug\ParamDemo.exe
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\ParamDemo\bin\Debug\ParamDemo.pdb
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\ParamDemo\obj\Debug\ParamDemo.csprojAssemblyReference.cache
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\ParamDemo\obj\Debug\ParamDemo.csproj.CoreCompileInputs.cache
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\ParamDemo\obj\Debug\ParamDemo.exe
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\ParamDemo\obj\Debug\ParamDemo.pdb

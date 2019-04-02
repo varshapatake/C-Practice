@@ -1,0 +1,7 @@
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\GenericCollections\bin\Debug\GenericCollections.exe.config
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\GenericCollections\bin\Debug\GenericCollections.exe
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\GenericCollections\bin\Debug\GenericCollections.pdb
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\GenericCollections\obj\Debug\GenericCollections.csprojAssemblyReference.cache
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\GenericCollections\obj\Debug\GenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\GenericCollections\obj\Debug\GenericCollections.exe
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\GenericCollections\obj\Debug\GenericCollections.pdb

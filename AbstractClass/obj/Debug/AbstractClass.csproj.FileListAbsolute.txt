@@ -1,0 +1,7 @@
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\AbstractClass\bin\Debug\AbstractClass.exe.config
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\AbstractClass\bin\Debug\AbstractClass.exe
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\AbstractClass\bin\Debug\AbstractClass.pdb
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\AbstractClass\obj\Debug\AbstractClass.csprojAssemblyReference.cache
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\AbstractClass\obj\Debug\AbstractClass.exe
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\AbstractClass\obj\Debug\AbstractClass.pdb

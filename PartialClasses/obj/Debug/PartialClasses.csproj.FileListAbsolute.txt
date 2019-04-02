@@ -1,0 +1,7 @@
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\PartialClasses\bin\Debug\PartialClasses.exe.config
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\PartialClasses\bin\Debug\PartialClasses.exe
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\PartialClasses\bin\Debug\PartialClasses.pdb
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\PartialClasses\obj\Debug\PartialClasses.csprojAssemblyReference.cache
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\PartialClasses\obj\Debug\PartialClasses.csproj.CoreCompileInputs.cache
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\PartialClasses\obj\Debug\PartialClasses.exe
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\PartialClasses\obj\Debug\PartialClasses.pdb

@@ -1,0 +1,7 @@
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\DelegateDemo\bin\Debug\DelegateDemo.exe.config
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\DelegateDemo\bin\Debug\DelegateDemo.exe
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\DelegateDemo\bin\Debug\DelegateDemo.pdb
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\DelegateDemo\obj\Debug\DelegateDemo.csprojAssemblyReference.cache
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\DelegateDemo\obj\Debug\DelegateDemo.csproj.CoreCompileInputs.cache
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\DelegateDemo\obj\Debug\DelegateDemo.exe
+C:\Users\varsha_patke\source\repos\SelfPracticeOfC_sharp_Concepts\DelegateDemo\obj\Debug\DelegateDemo.pdb
